@@ -1,0 +1,22 @@
+{
+  "name": "sf-b-4.2.7",
+  "version": "1.0.0",
+  "description": "SkillFactory Homework B4.2.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micbox/sf-b-4.2.7.git"
+  },
+  "author": "Mikayel Sukiasyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micbox/sf-b-4.2.7/issues"
+  },
+  "homepage": "https://github.com/micbox/sf-b-4.2.7#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
